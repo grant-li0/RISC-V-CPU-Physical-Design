@@ -13,7 +13,8 @@ CPU RTL repository: [RISC-V CPU](https://github.com/grant-li0/Multicycle-RISC-V-
 
 ## Results
 
-
+### Routed Design
+![Fully Routed Design](images/routed design.png)
 
 The flow completed through routing and extraction. The included post-route reports show:
 
