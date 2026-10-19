@@ -1,0 +1,32 @@
+ 
+****************************************
+Report : area
+Design : chip_top
+Version: X-2025.06-SP3
+Date   : Fri Oct 16 19:25:32 2026
+****************************************
+
+Library(s) Used:
+
+    sky130_tt_1.8_25 (File: /nethome/gli412/physical-design-onboarding-F26/resources/synopsys_libs/sky130_tt_1.8_25.db)
+    sky130_tt_1.8_25 (File: /nethome/gli412/physical-design-onboarding-F26/resources/synopsys_libs/HS_sky130_tt_1.8_25.db)
+    CF_SRAM_1024x32_tt_180V_25C (File: /nethome/gli412/physical-design-onboarding-F26/inputs/CF_SRAM_1024x32/db/CF_SRAM_1024x32_tt_180V_25C.db)
+
+Number of ports:                         4474
+Number of nets:                          9491
+Number of cells:                         5210
+Number of combinational cells:           4074
+Number of sequential cells:              1085
+Number of macros/black boxes:               2
+Number of buf/inv:                        424
+Number of references:                       8
+
+Combinational area:              41602.583411
+Buf/Inv area:                     2599.476943
+Noncombinational area:           37261.279743
+Macro/Black Box area:           235293.578125
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:                314157.441279
+Total area:                 undefined
+1

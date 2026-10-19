@@ -1,0 +1,12 @@
+step_init_design             OK         0s
+step_init_apr                OK        10s
+step_floorplan               OK         5s
+step_place_std_cells         OK       125s
+step_place_ties              OK         2s
+step_pre_cts_opt             OK       537s
+step_cts                     OK       186s
+step_post_cts_opt            OK        43s
+step_route                   OK       242s
+step_fill                    OK         2s
+step_physical_verify         OK         3s
+step_extract                 OK        68s

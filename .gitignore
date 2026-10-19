@@ -1,0 +1,51 @@
+# Supplied technology, cell, and SRAM resources
+/resources/
+/inputs/
+
+# Raw generated results; curated reports/ remains tracked
+/outputs/
+/signoff/
+/WORK/
+/work/
+
+# Cadence session and temporary files
+.cadence/
+innovus_temp*/
+innovus.cmd*
+innovus.log*
+apr.cmd*
+apr.log*
+pegasus*.log
+*.logv
+*.history
+.inferred* 
+
+# Tool databases, extraction, and layout artifacts
+*.enc
+*.enc.dat/
+*.dat
+*.dat.dat/
+*.ddc
+*.svf
+*.gds
+*.gdsii
+*.oas
+*.spef
+*.sdf
+rc_model.bin
+
+# Compiled library files
+*.db
+
+# Crash dumps
+core
+core.*
+*.stacktrace
+
+# Editor and OS files
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini

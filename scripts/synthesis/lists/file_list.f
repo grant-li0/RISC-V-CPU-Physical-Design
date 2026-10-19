@@ -1,0 +1,9 @@
+/nethome/gli412/physical-design-onboarding-F26/inputs/rtl/src/verilog/memory_controller.sv
+/nethome/gli412/physical-design-onboarding-F26/inputs/rtl/src/verilog/sram_wrapper.sv
+/nethome/gli412/physical-design-onboarding-F26/inputs/rtl/src/verilog/cpu/cpu_pkg.sv
+/nethome/gli412/physical-design-onboarding-F26/inputs/rtl/src/verilog/cpu/decode.sv
+/nethome/gli412/physical-design-onboarding-F26/inputs/rtl/src/verilog/cpu/execute.sv
+/nethome/gli412/physical-design-onboarding-F26/inputs/rtl/src/verilog/cpu/fetch.sv
+/nethome/gli412/physical-design-onboarding-F26/inputs/rtl/src/verilog/cpu/reg_file.sv
+/nethome/gli412/physical-design-onboarding-F26/inputs/rtl/src/verilog/cpu/cpu_top.sv
+/nethome/gli412/physical-design-onboarding-F26/inputs/rtl/src/verilog/chip_top.sv
