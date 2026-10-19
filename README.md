@@ -22,7 +22,6 @@ The flow completed through routing and extraction with the following results fro
 |---|---:|---:|
 | Setup WNS | -5.271 ns | -2.252 ns |
 | Setup TNS | -1870.878 ns | -1435.1 ns |
-| Hold WNS | Not recorded | +0.264 ns |
 
 The project focused on learning Tcl scripting for synthesis and PnR flows, static timing analysis (STA) skills and methods to improve WNS and TNS, including cell swapping with HS library cells. Timing was not closed and DRC, LVS errors were not resolved for clean signoff. For more details about what I explored in the project, refer to the slidedeck pdf in the repository root.
 
