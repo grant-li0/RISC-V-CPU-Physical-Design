@@ -2,7 +2,7 @@
 
 Physical implementation of a RISC-V CPU in SKY130 using Synopsys Design Compiler and Cadence Innovus through the SiliconJackets SJapr flow.
 
-CPU RTL repository: **[Add CPU repository link here]**
+CPU RTL repository: [RISC-V CPU](https://github.com/grant-li0/Multicycle-RISC-V-CPU)
 
 ## Contributions
 
@@ -13,6 +13,9 @@ CPU RTL repository: **[Add CPU repository link here]**
 
 ## Results
 
+### Routed Design
+![Fully Routed Design](images/routed design.png)
+
 The flow completed through routing and extraction. The included post-route reports show:
 
 | Metric | Result |
@@ -21,7 +24,7 @@ The flow completed through routing and extraction. The included post-route repor
 | Setup TNS | -1435.1 ns |
 | Hold WNS | +0.264 ns |
 
-The project focused on learning static timing analysis (STA) skills and methods to improve WNS and TNS, including cell swapping with HS library cells. Timing was not closed and DRC, LVS errors were not resolved for clean signoff. For more details about what I explored in the project, refer to the slidedeck pdf in the repository root.
+The project focused on learning Tcl scripting for synthesis and PnR flows, static timing analysis (STA) skills and methods to improve WNS and TNS, including cell swapping with HS library cells. Timing was not closed and DRC, LVS errors were not resolved for clean signoff. For more details about what I explored in the project, refer to the slidedeck pdf in the repository root.
 
 ## Repository Contents
 
